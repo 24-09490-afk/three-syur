@@ -107,12 +107,12 @@ public class Main {
         int choice;
 
         do {
-            System.out.println("\n===== MAIN MENU =====");
-            System.out.println("[1] View Hotel Details");
-            System.out.println("[2] Book a Room");
-            System.out.println("[3] View Available Rooms by Day");
-            System.out.println("[4] Admin Login");
-            System.out.println("[5] Exit");
+            System.out.println("\n============= MAIN MENU =============");
+            System.out.println("|| [1] View Hotel Details          ||");
+            System.out.println("|| [2] Book a Room                 ||");
+            System.out.println("|| [3] View Available Rooms by Day ||");
+            System.out.println("|| [4] Admin Login                 ||");
+            System.out.println("|| [5] Exit                        ||");
             System.out.print("Enter your choice: ");
             choice = in.nextInt();
 
