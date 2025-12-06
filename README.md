@@ -1,9 +1,7 @@
 ˚ ☾⭒.˚Sleep Tight, Book Right⋆｡ﾟ☁︎｡⋆｡ ﾟ
-
             three-syur
-
              IT-2109
-
+             
     DE TORRES, GIBSON JAKE 
     MACATANGAY, ARA NIRIZ
     YACO, RENDELEE CYRIL R.
