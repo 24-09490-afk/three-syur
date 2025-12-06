@@ -60,7 +60,9 @@ Abstraction is applied by hiding complex booking validation and room-checking pr
 
 🧩Program Structure (Sleep Tight, Book Right) 𐙚⋆°.⋆♡
 
+
 👤User Features (Tourist / Customer)
+
 
   View System Foreword
   
@@ -76,7 +78,9 @@ Abstraction is applied by hiding complex booking validation and room-checking pr
   
   Logout
 
+
 👨‍💼Admin Features 𐙚⋆°｡⋆♡
+
 
   Login as Admin
   
@@ -88,7 +92,9 @@ Abstraction is applied by hiding complex booking validation and room-checking pr
   
   Logout Admin Mode
 
+
  🛏️Hotel System Features ⋆ ˚｡⋆୨୧˚
+ 
 
   Display Hotel Information
   
@@ -101,8 +107,10 @@ Abstraction is applied by hiding complex booking validation and room-checking pr
   Organized Weekly Scheduling System
   
   Safe Input Validation (Floors, Rooms, Days)
+  
 
  ℹ️General System Options✧˖°.
+ 
 
   Help / Assistance
   
@@ -115,6 +123,8 @@ Abstraction is applied by hiding complex booking validation and room-checking pr
   Developer / IT Support Contact
   
   Exit System
+
+  
 
  📂Project Structure⋆｡‧˚ʚɞ˚‧｡⋆
 
