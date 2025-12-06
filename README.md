@@ -63,37 +63,57 @@ Abstraction is applied by hiding complex booking validation and room-checking pr
 👤User Features (Tourist / Customer)
 
   View System Foreword
+  
   Book a Room (Select Floor → Select Room Number → Select Weekday)
+  
   View Room Rates per Floor
+  
   View Booking Summary
+  
   Check Room Availability by Day
+  
   Manage Personal Booking (View Existing Reservation)
+  
   Logout
 
 👨‍💼Admin Features 𐙚⋆°｡⋆♡
 
   Login as Admin
+  
   View All Bookings
+  
   Cancel a Booking
+  
   View Hotel Information (Floors, Rates, Rooms)
+  
   Logout Admin Mode
 
  🛏️Hotel System Features ⋆ ˚｡⋆୨୧˚
 
   Display Hotel Information
+  
   Floor Rates Overview
+  
   Room Availability Checker
+  
   Booking Conflict Detection (Prevents double-booking)
+  
   Organized Weekly Scheduling System
+  
   Safe Input Validation (Floors, Rooms, Days)
 
  ℹ️General System Options✧˖°.
 
   Help / Assistance
+  
   User Guide (How to Book a Room)
+  
   Importance of Reservation Scheduling
+  
   Emergency Contact List (Hotel Staff, Front Desk Numbers)
+  
   Developer / IT Support Contact
+  
   Exit System
 
  📂Project Structure⋆｡‧˚ʚɞ˚‧｡⋆
